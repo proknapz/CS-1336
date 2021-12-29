@@ -58,7 +58,7 @@ int main()
 		}
 		else {
 			cout << endl << "Invalid menu choice, please try again" << endl << endl << endl;
-			cout << "Press the enter key once or twice to continue…" << endl << endl;
+			cout << "Press the enter key once or twice to continueâ€¦" << endl << endl;
 			cin.ignore(); cin.get();
 			continue;
 		}
